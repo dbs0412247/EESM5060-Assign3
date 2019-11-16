@@ -1,0 +1,7 @@
+EESM5060 Lab Assignment 3 Submission
+
+Question:
+After you extract the face landmarks, what kind of APP can you develop and how? Please elaborate.
+
+Answer:
+With the face landmarks, an application to detect and count the number of faces in an image with good resolution can be developed. This app can also count the number of obstructed faces (by counting number of total face landmarks vs expected total faces), and potentially, can be used automatically take pictures of a large group of people and minimize the number of obstructed people in the image.

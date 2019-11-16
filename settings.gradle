@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='EESM5060_Assign3'
